@@ -4,6 +4,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <div>
+       <p>sasadsa</p>
         <HelloWorld/>
   </div>
 </template>
